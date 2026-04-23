@@ -1,0 +1,12 @@
+{
+    "Data Load Time (s)": 2.4905,
+    "Training Time (s)": 2.7042,
+    "Best Iteration": 1,
+    "AUC-ROC": 0.9415,
+    "Accuracy": 0.9989,
+    "F1-Score": 0.7234,
+    "Precision": 0.6204,
+    "Recall": 0.8673,
+    "Inference Latency (1 row) (s)": 0.001708,
+    "Inference Latency (1000 rows) (s)": 0.002259
+}
